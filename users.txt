@@ -1,0 +1,1 @@
+a:2:{i:0;a:2:{s:5:"email";s:15:"poips@gmail.com";s:8:"password";s:40:"b71ee69e5444aad80e0643e7b6879b03d5adb060";}i:1;a:2:{s:5:"email";s:18:"ziquette@gmail.com";s:8:"password";s:40:"b71ee69e5444aad80e0643e7b6879b03d5adb060";}}
